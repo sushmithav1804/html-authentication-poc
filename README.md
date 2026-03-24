@@ -1,60 +1,73 @@
-# HTML Authentication POC
+# HTML Authentication System (Bootstrap Styled)
 
-A simple Authentication Flow Proof of Concept built using pure HTML.
-This project demonstrates navigation and redirection between multiple pages using anchor (`<a>`) tags without using CSS or JavaScript.
+A simple Authentication Flow Proof of Concept built using HTML5, CSS3, and Bootstrap 5.  
+This project demonstrates navigation and redirection between multiple pages using anchor (`<a>`) tags along with responsive UI styling.
 
 # Project Objective
 
 To design a basic authentication workflow that includes:
 
-1. Login Page
-2. Registration Page
-3. Forgot Password Page
-4. Reset Password Page
-5. Dashboard Page
+1. Login Page  
+2. Registration Page  
+3. Forgot Password Page  
+4. Reset Password Page  
+5. Dashboard Page  
 
-All pages are interconnected using proper HTML redirections.
+All pages are interconnected using proper HTML navigation.
+
+# Features
+
+- Responsive UI using Bootstrap 5  
+- Clean card-based layout  
+- Styled forms and buttons  
+- Navigation between all authentication pages  
+- Password visibility toggle  
+- Custom CSS enhancements  
 
 # Pages Included
 
-1. login.html - User login form
-2. register.html - New user registration form
-3. forgot-password.html - Request password reset
-4. reset-password.html - Update password form
-5. dashboard.html - Welcome page after login
+- `index.html`— User Login Page  
+- `register.html` — New User Registration  
+- `forgot-password.html` — Request Password Reset  
+- `reset-password.html` — Update Password Form  
+- `dashboard.html` — Welcome Page After Login  
+- `styles.css` — Custom Styling  
 
 # Navigation Flow
 
-- Login -> Dashboard
-- Login -> Forgot Password
-- Login -> Reset Password
-- Login -> Register
-- Register -> Login
-- Forgot Password -> Reset Link -> Login
-- Reset Password -> Login
-- Dashboard -> Logout -> Login
-
-All redirections are implemented using anchor (`<a>`) tags only.
+- Login -> Dashboard  
+- Login -> Forgot Password  
+- Login -> Reset Password  
+- Login -> Register  
+- Register -> Login  
+- Forgot Password -> Login  
+- Reset Password -> Login  
+- Dashboard -> Logout -> Login  
 
 # Technologies Used
- 
- HTML5
+
+- HTML5  
+- CSS3  
+- Bootstrap 5  
 
 # How to Run the Project (Using XAMPP)
 
-1. Download or clone this repository 
+1. Download or clone this repository  
 
 2. Move the project folder to:
-
    C:\xampp\htdocs\
 
-3. Start Apache from XAMPP Control Panel
+3. Start Apache from XAMPP Control Panel  
 
-4. Open the below link in browser:
+4. Open the below link in browser:  
 
-   http://localhost/html-authentication-poc/login.html
+http://localhost/html-authentication-poc/  
 
+# Screenshots
+
+Screenshots of all pages are available in the `screenshots` folder.
 
 # Author
-
 Sushmitha V
+
+
