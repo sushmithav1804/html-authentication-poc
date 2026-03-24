@@ -60,12 +60,16 @@ All pages are interconnected using proper HTML navigation.
 3. Start Apache from XAMPP Control Panel  
 
 4. Open the below link in browser:  
-
-http://localhost/html-authentication-poc/  
+   http://localhost/html-authentication-poc/  
 
 # Screenshots
 
 Screenshots of all pages are available in the `screenshots` folder.
+1. Login Page(screenshots/login.png)
+2. Register Page(screenshots/register.png)
+3. Forgot Password Page(screenshots/forgot-password.png)
+4. Reset Password Page(screenshots/reset-password.png)
+5. Dashboard Page(screenshots/dashboard.png)
 
 # Author
 Sushmitha V
