@@ -60,8 +60,7 @@ All pages are interconnected using proper HTML navigation.
 3. Start Apache from XAMPP Control Panel  
 
 4. Open the below link in browser:  
-
-http://localhost/html-authentication-poc/  
+   http://localhost/html-authentication-poc/  
 
 # Screenshots
 
