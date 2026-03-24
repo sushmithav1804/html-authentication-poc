@@ -65,6 +65,11 @@ All pages are interconnected using proper HTML navigation.
 # Screenshots
 
 Screenshots of all pages are available in the `screenshots` folder.
+1. Login Page(screenshots/login.png)
+2. Register Page(screenshots/register.png)
+3. Forgot Password Page(screenshots/forgot-password.png)
+4.Reset Password Page(screenshots/reset-password.png)
+5. Dashboard Page(screenshots/dashboard.png)
 
 # Author
 Sushmitha V
